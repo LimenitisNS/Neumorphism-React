@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Neumorphism-React/static/css/main.232745ed.chunk.css",
-    "main.js": "/Neumorphism-React/static/js/main.8a2d2009.chunk.js",
-    "main.js.map": "/Neumorphism-React/static/js/main.8a2d2009.chunk.js.map",
+    "main.js": "/Neumorphism-React/static/js/main.d815c087.chunk.js",
+    "main.js.map": "/Neumorphism-React/static/js/main.d815c087.chunk.js.map",
     "runtime-main.js": "/Neumorphism-React/static/js/runtime-main.b37f3e42.js",
     "runtime-main.js.map": "/Neumorphism-React/static/js/runtime-main.b37f3e42.js.map",
     "static/js/2.4268a25d.chunk.js": "/Neumorphism-React/static/js/2.4268a25d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b37f3e42.js",
     "static/js/2.4268a25d.chunk.js",
     "static/css/main.232745ed.chunk.css",
-    "static/js/main.8a2d2009.chunk.js"
+    "static/js/main.d815c087.chunk.js"
   ]
 }
